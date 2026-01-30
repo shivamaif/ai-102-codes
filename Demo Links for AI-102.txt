@@ -1,0 +1,86 @@
+Prepare for an AI development project
+http://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html
+
+Choose and deploy a language model
+https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/02-Explore-model-catalog.html
+
+Create a generative AI chat app
+https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/02a-AI-foundry-sdk.html
+
+Create a generative AI app that uses your own data
+https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html
+
+Fine-tune a language model
+https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/05-Finetune-model.html
+
+Apply content filters to prevent the output of harmful content
+https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html
+
+Evaluate generative AI model performance
+https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/07-Evaluate-prompt-flow.html
+
+Explore AI Agent development
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/01-agent-fundamentals.html
+
+Develop an AI agent
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/02-build-ai-agent.html
+
+Use a custom function in an AI agent
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/03-agent-custom-functions.html
+
+Develop a multi-agent solution
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/03b-build-multi-agent-solution.html
+
+Connect AI agents to tools using Model Context Protocol (MCP)
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/03c-use-agent-tools-with-mcp.html
+
+Develop an Azure AI chat agent with the Microsoft Agent Framework SDK
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/04-semantic-kernel.html
+
+Analyze Text
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Labs/01-analyze-text.html
+
+Create a Question Answering Solution
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Labs/02-qna.html
+
+Custom text classification
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Labs/04-text-classification.html
+
+Recognize and synthesize speech
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Labs/07-speech.html
+
+Develop an audio-enabled chat app
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Labs/09-audio-chat.html
+
+Analyze images
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Labs/01-analyze-images.html
+
+Read text in images
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Labs/02-ocr.html
+
+Detect and analyze faces
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Labs/03-face-service.html
+
+Classify images
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Labs/04-image-classification.html
+
+Develop a vision-enabled chat app
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Labs/08-gen-ai-vision.html
+
+Generate images with AI
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Labs/09-dall-e.html
+
+Extract information from multimodal content
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/01-content-understanding.html
+
+Develop a Content Understanding client application
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/02-content-understanding-api.html
+
+Analyze forms with prebuilt Azure AI Document Intelligence models
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/03-prebuilt-doc-intelligence-model.html
+
+Analyze forms with custom Azure AI Document Intelligence models
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/04-custom-doc-intelligence-model.html
+
+Create a knowledge mining solution
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/05-knowledge-mining.html
